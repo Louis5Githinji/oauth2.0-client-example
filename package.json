@@ -25,7 +25,7 @@
     "jshint": "^2.11.1",
     "nodemon": "^2.0.4",
     "openssl-self-signed-certificate": "^1.1.6",
-    "serverless": "1.75.1",
+    "serverless": "1.77.1",
     "serverless-plugin-include-dependencies": "^4.1.0"
   },
   "dependencies": {
